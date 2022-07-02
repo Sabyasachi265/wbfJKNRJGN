@@ -1,0 +1,17 @@
+body{
+    background-color: aquamarine;
+}
+
+#score{
+    font-size: 30px;
+    margin-left: 100;
+}
+
+#time{
+    font-size: 30px;
+    margin-right: 100px;
+}
+
+#draw{
+    color: black;
+}
